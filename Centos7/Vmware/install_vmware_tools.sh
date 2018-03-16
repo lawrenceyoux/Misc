@@ -7,3 +7,6 @@ tar -zxvf VMwareTools-10.0.6-3560309.tar.gz
 cd vmware-tools-distrib
 ./vmware-install.pl
 ./vmware-install.pl
+
+
+this is branch try
